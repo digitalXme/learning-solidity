@@ -16,7 +16,7 @@ contract MyFirstContract {
         age = newAge;
     }
     
-    function getAge() returns (uint) {
+    function getAge( ) returns (uint) {
         return age;
     }
 }
